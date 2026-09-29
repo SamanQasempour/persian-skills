@@ -1,7 +1,7 @@
 <div dir="rtl">
 
 <p align="center">
-  <img src="assets/banner.png2" alt="مهارت‌های فارسی Cursor — Persian Writing Skills for Cursor" width="100%" />
+  <img src="assets/banner2.png" alt="مهارت‌های فارسی Cursor — Persian Writing Skills for Cursor" width="100%" />
 </p>
 
 <h1 align="center">اسکیل‌های فارسی حرفه‌ای برای Cursor</h1>
